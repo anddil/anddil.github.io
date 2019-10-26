@@ -3,6 +3,7 @@ layout: page
 title: 
 permalink: /research/
 ---
+
 ## Research interests
 
 - Moduli spaces/stacks of objects (e.g. smooth/stable curves, polarized K3 surfaces).
