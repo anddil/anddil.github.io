@@ -10,5 +10,5 @@ I did my graduate studies at [Scuola Normale Superiore](https://www.sns.it/en) i
 
 I got both my bachelor and my master degree from the [University of Rome "La Sapienza"](https://https://www.mat.uniroma1.it/en).
 
-You can find my full CV [here](https://anddil.github.io/CV_DiLorenzo.pdf).
+You can find my full CV [here](CV_DiLorenzo.pdf).
 
