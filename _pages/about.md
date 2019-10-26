@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## About
+
 
 Currently, I am a postdoc at [Aarhus University](https://qgm.au.dk).
 
