@@ -3,14 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### Research interests
+## Research interests
 
 - Moduli spaces/stacks of objects (e.g. smooth/stable curves, polarized K3 surfaces).
 - Picard groups and integral Chow rings of moduli spaces.
 - Explicit computations via localization techniques.
 - Arithmetic of moduli spaces via cohomological invariants.
 
-### Publications and preprints
+## Publications and preprints
 
 1. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint.
 2. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), preprint (submitted)
