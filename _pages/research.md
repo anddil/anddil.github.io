@@ -10,6 +10,12 @@ permalink: /research/
 - Arithmetic of moduli spaces via cohomological invariants.
 
 ### Publications and preprints
+ul {
+    transform: rotate(180deg);
+}
+ul > li {
+    transform: rotate(-180deg);
+}
 1. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint.
 4. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), preprint (submitted)
 3. [Cohomological invariants of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1804.02216), preprint (submitted)
