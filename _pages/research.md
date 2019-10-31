@@ -1,15 +1,19 @@
 ---
 layout: page
-title: 
+title: Research
 permalink: /research/
 ---
 
+My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow rings as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus and moduli of quasi-polarized K3 surfaces of low degree.
+
+The kind of techniques that I use range from the more abstract stack-theoretical methods to the more down-to-earth equivariant intersection theory. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
+
 ## Research interests
 
-- Moduli spaces/stacks of objects (e.g. smooth/stable curves, polarized K3 surfaces).
-- Picard groups and integral Chow rings of moduli spaces.
-- Explicit computations via localization techniques.
-- Arithmetic of moduli spaces via cohomological invariants.
+- Moduli spaces/stacks of curves and of quasi-polarized K3 surfaces.
+- Picard groups and integral Chow rings.
+- Equivariant intersection theory.
+- Cohomological invariants (a.k.a. unramified cohomology) of moduli stacks.
 
 ## Publications and preprints
 
