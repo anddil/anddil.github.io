@@ -17,8 +17,9 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Publications and preprints
 
-1. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint.
-2. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), preprint (submitted)
-3. [Cohomological invariants of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1804.02216), preprint (submitted)
-4. [The Chow ring of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1802.04519), Int. Math. Res. Not., rnz101, https://doi.org/10.1093/imrn/rnz101 (2019).
-5. [On quantum and relativistic mechanical analogues in mean field spin models](https://arxiv.org/abs/1407.5009), Proc. R. Soc. A 470: 20140589 (2014).
+1.[A complete description of cohomological invariants of even genus hyperelliptic curves](https://arxiv.org/abs/1911.04005), joint with Roberto Pirisi, preprint.
+. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint.
+. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), preprint (submitted)
+. [Cohomological invariants of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1804.02216), preprint (submitted)
+. [The Chow ring of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1802.04519), Int. Math. Res. Not., rnz101, https://doi.org/10.1093/imrn/rnz101 (2019).
+. [On quantum and relativistic mechanical analogues in mean field spin models](https://arxiv.org/abs/1407.5009), Proc. R. Soc. A 470: 20140589 (2014).
