@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Currently, I am a postdoc at [Aarhus University](https://qgm.au.dk).
+Currently, I am a postdoc at [Aarhus University](https://math.au.dk/en/).
 
 I did my graduate studies at [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, under the wise guidance of [Angelo Vistoli](http://homepage.sns.it/vistoli/).
 
