@@ -18,9 +18,9 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Publications and preprints
 
-1. [Integral Chow ring of the stack of smooth non-hyperelliptic curves of genus three](https://arxiv.org/abs/2004.00052), joint with Damiano Fulghesu and Angelo Vistoli (2020).
-2. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with Roberto Pirisi, preprint (2020).
-3. [A complete description of cohomological invariants of even genus hyperelliptic curves](https://arxiv.org/abs/1911.04005), joint with Roberto Pirisi, preprint (2019).
+1. [Integral Chow ring of the stack of smooth non-hyperelliptic curves of genus three](https://arxiv.org/abs/2004.00052), joint with [Damiano Fulghesu](http://web.mnstate.edu/fulghesu/index.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2020).
+2. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2020).
+3. [A complete description of cohomological invariants of even genus hyperelliptic curves](https://arxiv.org/abs/1911.04005), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2019).
 4. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint (2019).
 5. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), to appear in Manuscripta Mathematica.
 6. [Cohomological invariants of the stack of hyperelliptic curves of odd genus](https://arxiv.org/abs/1804.02216), to appear in Transformation Groups.
