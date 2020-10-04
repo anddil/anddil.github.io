@@ -2,5 +2,5 @@
 permalink: /belletti/
 ---
 <div>
-  <img src="giulio.png">
+  <img src="/_pages/giulio.png">
 </div>
