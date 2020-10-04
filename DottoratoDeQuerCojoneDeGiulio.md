@@ -1,5 +1,5 @@
 ---
-permalink: /belletti/
+permalink: /DottoratoDeQuerCojoneDeGiulio/
 ---
 <div>
   <img src="/_pages/giulio.png">
