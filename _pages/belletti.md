@@ -1,5 +1,6 @@
 ---
 permalink: /belletti/
 ---
-
-<img src="giulio.png">
+<div>
+  <img src="giulio.png">
+</div>
