@@ -9,7 +9,7 @@ Here you can find informations related to the courses I taught so far.
 This is a course I am teaching at Aarhus University. Well, actually is online, so if you are interested to attend, send me an e-mail.
 Below you can find lecture notes.
 
-- [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf). [Exercises](TopAlgVars/Exercises1.pdf).
+- [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf) [Exercises.](TopAlgVars/Exercises1.pdf).
 
 ## Moduli of curves and maps, Gromov-Witten theory and cohomological field theories (Fall 2019, Aarhus University)
 
