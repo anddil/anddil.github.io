@@ -11,6 +11,7 @@ Below you can find lecture notes.
 
 - [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf) [Exercises.](TopAlgVars/Exercises1.pdf)
 - [Lecture 2: some implications between standard conjectures.](TopAlgVars/Lecture2.pdf) [Exercises.](TopAlgVars/Exercises2.pdf)
+- [Lecture 3: decomposition of the diagonal and zero cycles.](TopAlgVars/Lecture3.pdf)
 
 ## Moduli of curves and maps, Gromov-Witten theory and cohomological field theories (Fall 2019, Aarhus University)
 
