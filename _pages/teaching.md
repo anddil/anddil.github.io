@@ -12,8 +12,8 @@ Below you can find lecture notes.
 - [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf) [Exercises.](TopAlgVars/Exercises1.pdf)
 - [Lecture 2: some implications between standard conjectures.](TopAlgVars/Lecture2.pdf) [Exercises.](TopAlgVars/Exercises2.pdf)
 - [Lecture 3: decomposition of the diagonal and zero cycles.](TopAlgVars/Lecture3.pdf)
-- [Lecture 4: Finite dimensionality, representability and Mumford's theorem.](TopAlgVars/Lecture4.pdf)
-- [Lecture 5: Proof of the Bloch conjecture for surfaces not of general type.](TopAlgVars/Lecture5.pdf) [Exercises.](TopAlgsVars/Exercises5.pdf)
+- [Lecture 4: finite dimensionality, representability and Mumford's theorem.](TopAlgVars/Lecture4.pdf)
+- [Lecture 5: proof of the Bloch conjecture for surfaces not of general type.](TopAlgVars/Lecture5.pdf) [Exercises.](TopAlgsVars/Exercises5.pdf)
 
 ## Moduli of curves and maps, Gromov-Witten theory and cohomological field theories (Fall 2019, Aarhus University)
 
