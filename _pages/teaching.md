@@ -14,6 +14,7 @@ Below you can find lecture notes.
 - [Lecture 3: decomposition of the diagonal and zero cycles.](TopAlgVars/Lecture3.pdf)
 - [Lecture 4: finite dimensionality, representability and Mumford's theorem.](TopAlgVars/Lecture4.pdf)
 - [Lecture 5: proof of the Bloch conjecture for surfaces not of general type.](TopAlgVars/Lecture5.pdf) [Exercises.](TopAlgVars/Exercises5.pdf)
+- [Lecture 6: counterexamples to the integral Hodge conjecture.](TopAlgVars/Lecture6.pdf) [Exercises.](TopAlgVars/Exercises6.pdf)
 
 ## Moduli of curves and maps, Gromov-Witten theory and cohomological field theories (Fall 2019, Aarhus University)
 
