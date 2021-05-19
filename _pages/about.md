@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 
-Currently, I am a postdoc at [Aarhus University](https://math.au.dk/en/).
+Currently, I am a Wissenschaftlicher Mitarbeiter (postdoc) at [Humboldt University](https://www.mathematik.hu-berlin.de/en) in Berlin, working in the group of [Gavril Farkas](https://www.mathematik.hu-berlin.de/~farkas/). 
+
+Before that, I spent a year and a half as a postdoc at [Aarhus University] (https://math.au.dk/en/) with [Gergely Berczi](https://sites.google.com/view/gergely-berczi/home).
 
 I did my graduate studies at [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, under the wise guidance of [Angelo Vistoli](http://homepage.sns.it/vistoli/).
 
