@@ -4,9 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 Here you can find informations related to the courses I taught so far.
+## Geometric group theory (TA, Spring 2021, Humboldt University)
+
+I am taking care of the exercise classes of the [this course](https://agnes.hu-berlin.de/lupo/rds;jsessionid=699B1985270B9C4540D4CD852EFA4D77.detritus_reserve?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=181414)
+
 ## Topology of algebraic varieties (Fall 2020, Aarhus University)
 
-This is a course I am teaching at Aarhus University. Well, actually is online, so if you are interested to attend, send me an e-mail.
+This is a course I taught at Aarhus University. Well, actually it was online.
 Below you can find lecture notes.
 
 - [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf) [Exercises.](TopAlgVars/Exercises1.pdf)
