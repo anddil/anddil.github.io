@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus and moduli of quasi-polarized K3 surfaces of low degree.
+My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow(-Witt) rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus and moduli of quasi-polarized K3 surfaces of low degree.
 
 The kind of techniques that I use range from the more abstract stack-theoretical methods to the more down-to-earth equivariant intersection theory. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
 
@@ -15,9 +15,11 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 - Equivariant intersection theory.
 - Cohomological invariants (a.k.a. unramified cohomology) of moduli stacks.
 - Brauer groups.
+- Chow-Witt groups.
 
 ## Publications and preprints
 
+1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), preprint (2021).
 1. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021)
 1. [Cohomological invariants of root stacks and admissible double coverings](https://arxiv.org/abs/2009.07671), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2020).
 1. [Integral Chow ring of the stack of smooth non-hyperelliptic curves of genus three](https://arxiv.org/abs/2004.00052), joint with [Damiano Fulghesu](http://web.mnstate.edu/fulghesu/index.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Transactions of the AMS, https://doi.org/10.1090/tran/8354 (2020).
