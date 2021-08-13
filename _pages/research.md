@@ -19,7 +19,12 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-\( a^2 \)
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
+
+$ a^2 $
  
 
 My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow(-Witt) rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus and moduli of quasi-polarized K3 surfaces of low degree.
