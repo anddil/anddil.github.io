@@ -44,7 +44,7 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 1. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021)
 1. [Cohomological invariants of root stacks and admissible double coverings](https://arxiv.org/abs/2009.07671), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2020).
 1. [Integral Chow ring of the stack of smooth non-hyperelliptic curves of genus three](https://arxiv.org/abs/2004.00052), joint with [Damiano Fulghesu](http://web.mnstate.edu/fulghesu/index.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Transactions of the AMS, https://doi.org/10.1090/tran/8354 (2020).
-2. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2020).
+2. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), to appear on Forum of Mathematics, Sigma (2020).
 3. [A complete description of cohomological invariants of even genus hyperelliptic curves](https://arxiv.org/abs/1911.04005), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), Documenta Mathematica, https://doi.org/10.25537/dm.2021v26.199-230 (2021).
 4. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint (2019).
 5. [Picard group of moduli of curves of low genus in positive characteristic](https://arxiv.org/abs/1812.01913), Manuscripta Mathematica, https://doi.org/10.1007/s00229-020-01212-3 (2020).
