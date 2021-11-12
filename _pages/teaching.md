@@ -4,6 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 Here you can find some information related to the courses I taught so far.
+## Algebraic curves (TA, Winter 2021, Humboldt University)
+
+I take care of the exercise classes of [this master course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=188756&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
+
+## Algebra II (TA, Winter 2021, Humboldt University)
+
+I take care of the exercise classes of [this master course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=184618), offered at Humboldt University.
+
 ## Geometric group theory (TA, Spring 2021, Humboldt University)
 
 I took care of the exercise classes of [this master course](https://agnes.hu-berlin.de/lupo/rds;jsessionid=699B1985270B9C4540D4CD852EFA4D77.detritus_reserve?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=181414), offered at Humboldt University.
