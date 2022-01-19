@@ -39,6 +39,7 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Publications and preprints
 
+1. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), preprint (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://www.sns.it/en/persona/michele-pernice) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021).
 1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), preprint (2021).
 1. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021)
