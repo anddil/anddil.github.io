@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Currently, I am a Wissenschaftlicher Mitarbeiter (research assistant) at [Humboldt University](https://www.mathematik.hu-berlin.de/en) in Berlin, working in the group of [Gavril Farkas](https://www.mathematik.hu-berlin.de/~farkas/). 
+Currently, I am a Wissenschaftlicher Mitarbeiter (basically a postdoc) at [Humboldt University](https://www.mathematik.hu-berlin.de/en) in Berlin, working in the group of [Gavril Farkas](https://www.mathematik.hu-berlin.de/~farkas/). 
 
 Before that, I spent a year and a half as a postdoc at [Aarhus University](https://math.au.dk/en/) with [Gergely Berczi](https://sites.google.com/view/gergely-berczi/home).
 
