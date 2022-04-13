@@ -24,13 +24,13 @@ MathJax = {
 </script>
  
 
-My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow(-Witt) rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus and moduli of quasi-polarized K3 surfaces of low degree.
+My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow(-Witt) rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus, quasi-polarized K3 surfaces and elliptic surfaces
 
 The kind of techniques that I use range from the more abstract stack-theoretical methods to the more down-to-earth equivariant intersection theory. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
 
 ## Research interests
 
-- Moduli spaces/stacks of curves and of quasi-polarized K3 surfaces.
+- Moduli spaces/stacks of curves, quasi-polarized K3 surfaces, Weierstrass fibrations.
 - Picard groups and integral Chow rings.
 - Equivariant intersection theory.
 - Cohomological invariants (a.k.a. unramified cohomology) of moduli stacks.
@@ -39,6 +39,7 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Publications and preprints
 
+1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), preprint (2022).
 1. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), preprint (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://www.sns.it/en/persona/michele-pernice) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021).
 1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), preprint (2021).
