@@ -39,6 +39,7 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Publications and preprints
 
+1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2022).
 1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), preprint (2022).
 1. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), preprint (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://www.sns.it/en/persona/michele-pernice) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021).
