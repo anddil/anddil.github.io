@@ -38,12 +38,12 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 - Chow-Witt groups.
 
 ## Preprints
-1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), preprint (2022).
-2. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), preprint (2022).
-3. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), preprint (2022).
-4. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), preprint (2021).
-5. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/), preprint (2021)
-6. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758), preprint (2019).
+1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/) (2022).
+2. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
+3. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024) (2022).
+4. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html) (2021).
+5. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2021)
+6. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758) (2019).
 
 ## Publications
 
