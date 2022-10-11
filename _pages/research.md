@@ -30,7 +30,7 @@ The kind of techniques that I use range from the more abstract stack-theoretical
 
 ## Research interests
 
-- Moduli spaces/stacks of curves, quasi-polarized K3 surfaces, Weierstrass fibrations.
+- Moduli spaces/stacks of curves, quasi-polarized K3 surfaces, Weierstrass fibrations, stable maps.
 - Picard groups and integral Chow rings.
 - Equivariant intersection theory.
 - Cohomological invariants (a.k.a. unramified cohomology) of moduli stacks.
