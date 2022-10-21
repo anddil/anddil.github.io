@@ -4,9 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 Here you can find some information related to the courses I taught so far.
+
+## Analysis III for Physicists (TA, Fall 2022, Humboldt University)
+
+I took care of the exercises of [this course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=199909&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
+
+## Linear algebra and analytic geometry (TA, Fall 2022, Humboldt University)
+
+I took care of the exercise classes of [this course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=195050&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
+
 ## Number theory (Spring 2022, Humboldt University)
 
-I am teaching [this course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=188628&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
+I taught [this course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=188628&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
 
 ## Algebraic curves (TA, Fall 2021, Humboldt University)
 
