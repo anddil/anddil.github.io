@@ -24,20 +24,20 @@ MathJax = {
 </script>
  
 
-My research focuses on moduli spaces and their invariants, like integral Picard groups, integral Chow(-Witt) rings, Brauer groups as well as more arithmetically-oriented cohomological invariants (a.k.a. unramified cohomology); most of my work so far consisted in explicitly compute (some of) these invariants for moduli of hyperelliptic curves, moduli of smooth/stable curves of low genus, quasi-polarized K3 surfaces and elliptic surfaces
+My research focuses on moduli spaces and their geometry. This means that I am interested in constructing them, compactifying them and in computing some of their invariants (e.g. Chow groups, unramified cohomology, Brauer groups).
 
-The kind of techniques that I use range from the more abstract stack-theoretical methods to the more down-to-earth equivariant intersection theory. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
+The kind of techniques that I use include stack-theoretical methods, logarithmic geometry, equivariant intersection theory and Galois cohomology. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
 
 ## Research interests
 
-- Moduli spaces/stacks of curves, quasi-polarized K3 surfaces, Weierstrass fibrations, stable maps.
-- Picard groups and integral Chow rings.
-- Equivariant intersection theory.
-- Cohomological invariants (a.k.a. unramified cohomology) of moduli stacks.
-- Brauer groups.
-- Chow-Witt groups.
+- Moduli of curves, quasi-polarized K3 surfaces, Weierstrass fibrations, stable maps.
+- Picard groups, integral Chow rings, equivariant intersection theory.
+- Cohomological invariants (a.k.a. unramified cohomology) and Brauer groups.
+- Quadratic intersection theory and Chow-Witt groups.
+- Logarithmic geometry, compactification of Prym varieties.
 
 ## Preprints
+1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
 1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/) (2022).
 2. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
