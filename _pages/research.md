@@ -48,7 +48,8 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 
 ## Publications
 
-1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://michelepernice.github.io/home.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), to appear on Geometry & Topology (2022).
+1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html) (2021), to appear on Documenta Mathematica.
+1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://michelepernice.github.io/home.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2022), to appear on Geometry & Topology.
 2. [Cohomological invariants of root stacks and admissible double coverings](https://arxiv.org/abs/2009.07671), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), Canadian Journal of Mathematics, https://doi.org/10.4153/S0008414X21000602 (2021).
 3. [Integral Chow ring of the stack of smooth non-hyperelliptic curves of genus three](https://arxiv.org/abs/2004.00052), joint with [Damiano Fulghesu](http://web.mnstate.edu/fulghesu/index.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Transactions of the AMS, https://doi.org/10.1090/tran/8354 (2020).
 4. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/), Forum of Mathematics, Sigma, https://doi.org/10.1017/fms.2021.55 (2021).
