@@ -43,7 +43,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 2. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://mathweb.ucsd.edu/~srcannin/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
 3. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024) (2022).
 5. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2021)
-6. [Integral Picard group of quasi-polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758) (2019).
+6. [Integral Picard group of some stacks of polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758) (2019).
 
 ## Publications
 
