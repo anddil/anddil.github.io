@@ -5,6 +5,11 @@ permalink: /teaching/
 ---
 Here you can find some information related to the courses I taught so far.
 
+## Algebraic geometry (TA, Spring 2023, Humboldt University)
+
+I am taking care of the exercises of [this course](http://www-irm.mathematik.hu-berlin.de/~farkas/teaching/alggeom23/index.html), offered at Humboldt University. Below you can find the exercises sheets.
+
+
 ## Analysis III for physicists (TA, Fall 2022, Humboldt University)
 
 I am taking care of the exercises of [this course](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=199909&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), offered at Humboldt University.
