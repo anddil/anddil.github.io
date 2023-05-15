@@ -9,7 +9,7 @@ Here you can find some information related to the courses I taught so far.
 
 I am taking care of the exercises of [this course](http://www-irm.mathematik.hu-berlin.de/~farkas/teaching/alggeom23/index.html), offered at Humboldt University. Below you can find the exercise sheets.
 
--[Session 3.](AG23/AG_exercises_3.pdf)
+- [Session 3.](AG23/AG_exercises_3.pdf)
 
 
 ## Analysis III for physicists (TA, Fall 2022, Humboldt University)
