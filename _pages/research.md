@@ -37,7 +37,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 - Logarithmic geometry, compactification of Prym varieties.
 
 ## Preprints
-1.[Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/)(2023)
+1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2023).
 1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
 1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/) (2022).
