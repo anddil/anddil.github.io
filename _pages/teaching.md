@@ -56,7 +56,7 @@ Below you can find lecture notes.
 
 This is a graduate course I taught at Aarhus University. Below you can find lecture notes.
 
-- Lecture 0: introduction and overview of the course.
+- Lecture 0: Introduction and overview of the course.
 - [Lecture 1: Moduli of stable marked curves of genus 0.](CohFT/Lecture1.pdf)
 - [Lecture 2: Moduli of stable maps.](CohFT/Lecture2.pdf)
 - [Lecture 3: The boundary of the moduli space of stable maps.](CohFT/Lecture3.pdf)
