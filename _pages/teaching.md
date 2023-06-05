@@ -43,6 +43,7 @@ I took care of the exercise classes of [this master course](https://agnes.hu-ber
 This is a graduate course I taught at Aarhus University. Well, actually it was online.
 Below you can find lecture notes.
 
+- Lecture 0: introduction and overview of the course.
 - [Lecture 1: cohomology of projective varieties, algebraic cycles and standard conjectures.](TopAlgVars/Lecture1.pdf) [Exercises.](TopAlgVars/Exercises1.pdf)
 - [Lecture 2: some implications between standard conjectures.](TopAlgVars/Lecture2.pdf) [Exercises.](TopAlgVars/Exercises2.pdf)
 - [Lecture 3: decomposition of the diagonal and zero cycles.](TopAlgVars/Lecture3.pdf)
@@ -55,6 +56,7 @@ Below you can find lecture notes.
 
 This is a graduate course I taught at Aarhus University. Below you can find lecture notes.
 
+- Lecture 0: introduction and overview of the course.
 - [Lecture 1: Moduli of stable marked curves of genus 0.](CohFT/Lecture1.pdf)
 - [Lecture 2: Moduli of stable maps.](CohFT/Lecture2.pdf)
 - [Lecture 3: The boundary of the moduli space of stable maps.](CohFT/Lecture3.pdf)
