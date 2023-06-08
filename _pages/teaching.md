@@ -12,6 +12,7 @@ I am taking care of the exercises of [this course](http://www-irm.mathematik.hu-
 - [Session 3.](AG23/AG_exercises_3.pdf)
 - [Session 4.](AG23/AG_exercises_4.pdf)
 - [Session 5.](AG23/AG_exercises_5.pdf)
+- [Session 6.](AG23/AG_exercises_6.pdf)
 
 
 ## Analysis III for physicists (TA, Fall 2022, Humboldt University)
