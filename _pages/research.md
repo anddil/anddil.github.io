@@ -46,7 +46,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 5. [Integral Picard group of some stacks of polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758) (2019).
 
 ## Publications
-1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://people.math.ethz.ch/~scanning/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), to appear on Transactions of the American Mathematical Society (2022).
+1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://people.math.ethz.ch/~scanning/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), to appear on Transactions of the AMS (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://michelepernice.github.io/home.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2022), to appear on Geometry & Topology.
 5. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), Mathematische Zeitschrift, [journal version](https://doi.org/10.1007/s00209-023-03299-2), (2022).
 1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), Documenta Mathematica, [journal version](https://doi.org/10.4171/DM/911), (2021).
