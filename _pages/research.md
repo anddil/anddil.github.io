@@ -38,13 +38,13 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 
 ## Preprints
 1. [A criterion for smooth weighted blow-downs](https://arxiv.org/abs/2310.15076), joint with [Veronica Arena](https://sites.google.com/view/veronica-arena/home), [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), [Siddharth Mathur](https://sites.google.com/view/sidmathur/home), [Stephen Obinna](https://www.brown.edu/academics/math/graduate-students) and [Michele Pernice](https://michelepernice.github.io/home.html) (2023).
-1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
 1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://people.kth.se/~pirisi/) (2022).
 4. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2021)
 5. [Integral Picard group of some stacks of polarized K3 surfaces of low degree](https://arxiv.org/abs/1910.08758) (2019).
 
 ## Publications
+1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), to appear on International Mathematics Research Notices (2023).
 1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), to appear on Bulletin of the LMS (2023).
 1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://people.math.ethz.ch/~scanning/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), to appear on Transactions of the AMS (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://michelepernice.github.io/home.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), to appear on Geometry & Topology (2022).
