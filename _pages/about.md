@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am a researcher with tenure track (RtdB) at the [University of Pisa](https://www.dm.unipi.it/).
+Currently, I am a tenure-track assistant professor (RtdB) at the [University of Pisa](https://www.dm.unipi.it/).
 
 Before this, I spent three years as a wissenschaftlicher Mitarbeiter (basically a postdoc) at [Humboldt University](https://www.mathematik.hu-berlin.de/en) in Berlin, working in the group of [Gavril Farkas](https://www.mathematik.hu-berlin.de/~farkas/). 
 
