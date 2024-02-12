@@ -7,7 +7,7 @@ Here you can find some information related to the courses I taught so far.
 
 ## Algebraic geometry (TA, Spring 2023, Humboldt University)
 
-I am taking care of the exercises of [this course](http://www-irm.mathematik.hu-berlin.de/~farkas/teaching/alggeom23/index.html), offered at Humboldt University. Below you can find the exercise sheets.
+I took care of the exercises of [this course](http://www-irm.mathematik.hu-berlin.de/~farkas/teaching/alggeom23/index.html), offered at Humboldt University. Below you can find the exercise sheets.
 
 - [Session 3.](AG23/AG_exercises_3.pdf)
 - [Session 4.](AG23/AG_exercises_4.pdf)
