@@ -37,6 +37,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 - Logarithmic geometry, compactification of Prym varieties.
 
 ## Preprints
+1. [Wall-crossing integral Chow rings of $\mathcal{M}_{1,n}$](https://arxiv.org/abs/2402.14644), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) (2024).
 1. [The Brauer groups of moduli of genus three curves and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home) (2024).
 1. [A criterion for smooth weighted blow-downs](https://arxiv.org/abs/2310.15076), joint with [Veronica Arena](https://sites.google.com/view/veronica-arena/home), [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), [Siddharth Mathur](https://sites.google.com/view/sidmathur/home), [Stephen Obinna](https://www.brown.edu/academics/math/graduate-students) and [Michele Pernice](https://michelepernice.github.io/home.html) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
