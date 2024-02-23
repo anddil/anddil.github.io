@@ -26,7 +26,7 @@ MathJax = {
 
 My research focuses on moduli spaces and their geometry. This means that I am interested in constructing them, compactifying them and in computing some of their invariants (e.g. Chow groups, unramified cohomology, Brauer groups).
 
-The kind of techniques that I use include stack-theoretical methods, logarithmic geometry, equivariant intersection theory and Galois cohomology. In my darkest times, I also use Mathematica for doing explicit computations involving localization formulas.
+The kind of techniques that I use include stack-theoretical methods, logarithmic geometry, equivariant intersection theory and Galois cohomology. In my darkest times, I also use Mathematica or Sage for doing explicit computations (e.g. those that involve localization formulas).
 
 ## Research interests
 
