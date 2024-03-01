@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mh non so...
-permalink: /about/
+permalink: /link_supersegretissimo/
 ---
 
 Ok, forse potresti essere chi tu dici di essere, ma non sono ancora sicuro al cento per cento. Quando M.S. simula un suicidio?
