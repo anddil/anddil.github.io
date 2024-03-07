@@ -4,7 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 Here you can find some information related to the courses I taught so far.
-
+## Geometry (Spring 2024, University of Pisa)
+I am co-teaching [this course](), offered at the University of Pisa.
 ## Algebraic geometry (TA, Spring 2023, Humboldt University)
 
 I took care of the exercises of [this course](http://www-irm.mathematik.hu-berlin.de/~farkas/teaching/alggeom23/index.html), offered at Humboldt University. Below you can find the exercise sheets.
