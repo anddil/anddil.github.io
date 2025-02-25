@@ -46,7 +46,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 
 
 ## Publications
-Years in bracket below refer to the when the first version was uploaded on arXiv.
+Years in bracket below refer to when the first version was uploaded on arXiv.
 
 1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), International Mathematics Research Notices, [journal version](https://doi.org/10.1093/imrn/rnae010) (2023).
 1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Bulletin of the LMS, [journal version](https://doi.org/10.1112/blms.12968) (2023).
