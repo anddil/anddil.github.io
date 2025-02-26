@@ -47,7 +47,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 ## Publications
 Years in brackets below refer to when the first version was uploaded on arXiv.
 
-1. [The Brauer groups of moduli of genus three curves and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), to appear on Compositio Mathematica (2024).
+1. [The Brauer groups of moduli of genus three curves, abelian threefolds and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), to appear on Compositio Mathematica (2024).
 1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), International Mathematics Research Notices, [journal version](https://doi.org/10.1093/imrn/rnae010) (2023).
 1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Bulletin of the LMS, [journal version](https://doi.org/10.1112/blms.12968) (2023).
 1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), to appear on Algebraic Geometry (2022).
