@@ -39,7 +39,6 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 ## Preprints
 1. [Stable maps to quotient stacks with a properly stable point](https://arxiv.org/abs/2411.16141), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2024).
 1. [Wall-crossing integral Chow rings of $\overline{\mathcal{M}}_{1,n}$](https://arxiv.org/abs/2402.14644), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) (2024).
-1. [The Brauer groups of moduli of genus three curves and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home) (2024).
 1. [A criterion for smooth weighted blow-downs](https://arxiv.org/abs/2310.15076), joint with [Veronica Arena](https://sites.google.com/view/veronica-arena/home), [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), [Siddharth Mathur](https://sites.google.com/view/sidmathur/home), [Stephen Obinna](https://www.brown.edu/academics/math/graduate-students) and [Michele Pernice](https://michelepernice.github.io/home.html) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
 4. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2021)
@@ -48,6 +47,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 ## Publications
 Years in brackets below refer to when the first version was uploaded on arXiv.
 
+1. [The Brauer groups of moduli of genus three curves and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), to appear on Compositio Mathematica (2024).
 1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), International Mathematics Research Notices, [journal version](https://doi.org/10.1093/imrn/rnae010) (2023).
 1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Bulletin of the LMS, [journal version](https://doi.org/10.1112/blms.12968) (2023).
 1. [Cohomological invariants and Brauer groups of algebraic stacks in positive characteristic](https://arxiv.org/abs/2207.08792), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), to appear on Algebraic Geometry (2022).
