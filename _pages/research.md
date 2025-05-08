@@ -37,6 +37,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 - Logarithmic geometry, compactification of Prym varieties.
 
 ## Preprints
+1. [Integral Chow rings of modular compactifications of $\mathcal{M}_{1,n\leq 6}](https://arxiv.org/abs/2505.04587), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) (2025).
 1. [Stable maps to quotient stacks with a properly stable point](https://arxiv.org/abs/2411.16141), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2024).
 1. [Wall-crossing integral Chow rings of $\overline{\mathcal{M}}_{1,n}$](https://arxiv.org/abs/2402.14644), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) (2024).
 1. [A criterion for smooth weighted blow-downs](https://arxiv.org/abs/2310.15076), joint with [Veronica Arena](https://sites.google.com/view/veronica-arena/home), [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), [Siddharth Mathur](https://sites.google.com/view/sidmathur/home), [Stephen Obinna](https://www.brown.edu/academics/math/graduate-students) and [Michele Pernice](https://michelepernice.github.io/home.html) (2023).
