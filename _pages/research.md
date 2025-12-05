@@ -30,11 +30,11 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 
 ## Research interests
 
-- Moduli of curves, quasi-polarized K3 surfaces, Weierstrass fibrations, stable maps.
-- Picard groups, integral Chow rings, equivariant intersection theory.
+- Moduli of curves, surfaces and stable maps.
+- Intersection theory.
 - Cohomological invariants (a.k.a. unramified cohomology) and Brauer groups.
-- Quadratic intersection theory and Chow-Witt groups.
-- Logarithmic geometry, compactification of Prym varieties.
+- Algebraic stacks and good moduli spaces.
+- Logarithmic geometry.
 
 ## Preprints
 1. [Cohomological invariants of $\mathscr{M}_{3,n}$ via level structures](https://arxiv.org/abs/2509.09661) (2025)
@@ -48,7 +48,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 ## Publications
 Years in brackets below refer to when the first version was uploaded on arXiv.
 
-1. [Wall-crossing integral Chow rings of $\overline{\mathcal{M}}_{1,n}$](https://arxiv.org/abs/2402.14644), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home), to appear on Forum of Mathematics, Sigma (2024).
+1. [Wall-crossing integral Chow rings of $\overline{\mathcal{M}}_{1,n}$](https://arxiv.org/abs/2402.14644), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home), Forum of Mathematics, Sigma, [journal version](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/wallcrossing-integral-chow-rings-of-overline-mathcal-m1nleq-4/948A3173EDAAAFBD12C7586B0D863E1D) (2024).
 1. [The Brauer groups of moduli of genus three curves, abelian threefolds and plane curves](https://arxiv.org/abs/2402.06620), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), Compositio Mathematica, [journal version](https://www.cambridge.org/core/journals/compositio-mathematica/article/abs/brauer-groups-of-moduli-of-genus-three-curves-abelian-threefolds-and-plane-curves/5E05825EB4CAAF9791F6ADA9653BE7CD)(2024).
 1. [Effective morphisms and quotient stacks](https://arxiv.org/abs/2303.10751), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), International Mathematics Research Notices, [journal version](https://doi.org/10.1093/imrn/rnae010) (2023).
 1. [Integral Picard group of moduli of polarized K3 surfaces](https://arxiv.org/abs/2305.07574), joint with [Roberto Fringuelli](https://sites.google.com/view/roberto-fringuelli/home-page) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Bulletin of the LMS, [journal version](https://doi.org/10.1112/blms.12968) (2023).
