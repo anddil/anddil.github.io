@@ -42,7 +42,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 1. [Stable maps to quotient stacks with a properly stable point](https://arxiv.org/abs/2411.16141), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2024).
 1. [A criterion for smooth weighted blow-downs](https://arxiv.org/abs/2310.15076), joint with [Veronica Arena](https://sites.google.com/view/veronica-arena/home), [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), [Siddharth Mathur](https://sites.google.com/view/sidmathur/home), [Stephen Obinna](https://www.brown.edu/academics/math/graduate-students) and [Michele Pernice](https://michelepernice.github.io/home.html) (2023).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
-4. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/) (2021)
+
 
 
 ## Publications
@@ -56,6 +56,7 @@ Years in brackets below refer to when the first version was uploaded on arXiv.
 1. [The integral Chow rings of moduli of Weierstrass fibrations](https://arxiv.org/abs/2204.05524), joint with [Samir Canning](https://people.math.ethz.ch/~scanning/) and [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/), Transactions of the AMS, [journal version](https://doi.org/10.1090/tran/9084) (2022).
 1. [Intersection theory on moduli of smooth complete intersections](https://arxiv.org/abs/2201.06024), Mathematische Zeitschrift, [journal version](https://doi.org/10.1007/s00209-023-03299-2), (2022).
 1. [Stable cuspidal curves and the integral Chow ring of $\overline{\mathscr{M}}_{2,1}$](https://arxiv.org/abs/2108.03680), joint with [Michele Pernice](https://michelepernice.github.io/home.html) and [Angelo Vistoli](http://homepage.sns.it/vistoli/), Geometry & Topology, [journal version](https://msp.org/gt/2024/28-6/gt-v28-n6-p07-s.pdf) (2021).
+4. [Polarized twisted conics and moduli of stable curves of genus two](https://arxiv.org/abs/2103.13204), joint with [Angelo Vistoli](http://homepage.sns.it/vistoli/), to appear on Arkiv för Matematik (2021)
 1. [Equivariant Chow-Witt groups and moduli stacks of elliptic curves](https://arxiv.org/abs/2107.02305), joint with [Lorenzo Mantovani](http://user.math.uzh.ch/mantovani/index.html), Documenta Mathematica, [journal version](https://doi.org/10.4171/DM/911), (2021).
 7. [Cohomological invariants of root stacks and admissible double coverings](https://arxiv.org/abs/2009.07671), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), Canadian Journal of Mathematics, [journal version](https://doi.org/10.4153/S0008414X21000602), (2020).
 8. [Brauer groups of moduli of hyperelliptic curves via cohomological invariants](https://arxiv.org/abs/2002.11065), joint with [Roberto Pirisi](https://sites.google.com/view/rpirisi/home), Forum of Mathematics, Sigma, [journal version](https://doi.org/10.1017/fms.2021.55), (2021).
