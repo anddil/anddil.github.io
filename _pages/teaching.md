@@ -3,9 +3,18 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-Here you can find some information related to the courses I taught so far.
+Here you can find some information related to (some of) the courses I taught so far.
+## Geometry (Spring 2026, University of Pisa)
+I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11085060::::&ri=062064), offered at the University of Pisa.
+- [Note 04/04](Geo26/0403.pdf)
+- [Note 06/03](Geo26/0603.pdf)
+- [Esercizi 06/03](Geo26/0603-ex.pdf). Potete consegnarmi questi esercizi alla prossima lezione, senza necessità di firmarli. Serve a me per capire quali sono le conoscenze di base dei partecipanti al corso.
+## Category theory (Spring 2026, Universitity of Pisa)
+I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11082103::::&ri=062064), offered at the University of Pisa.
+## Analysis I (Fall 2025, University of Pisa)
+I co-taught [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11081653::::&ri=062064), offered at the University of Pisa.
 ## Foundation of algebraic geometry (Fall 2024, University of Pisa)
-I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11064618::::&ri=062064), offered at the University of Pisa.
+I co-taught [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11064618::::&ri=062064), offered at the University of Pisa.
 ## Geometry (Spring 2024, University of Pisa)
 I co-taught [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=10336398::::&ri=062064), offered at the University of Pisa.
 ## Algebraic geometry (TA, Spring 2023, Humboldt University)
