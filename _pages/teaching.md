@@ -4,7 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 Here you can find some information related to (some of) the courses I taught so far.
-## Analisi 1 (Ingegneria biomedica, Fall 2026, University of Pisa)
+## Scheme Theory (Fall 2026, University of Pisa)
+I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11128768::::&ri=062064), offered at the University of Pisa.
+
+## Analisi 1 (Biomedic Engineering, Fall 2026, University of Pisa)
 Notes from the course:
 
 - [09/21](Analisi26/09-21.pdf)
