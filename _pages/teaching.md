@@ -12,6 +12,7 @@ Notes from the course:
 
 - [09/21](Analisi26/09-21.pdf)
 - [09/22](Analisi26/09-22.pdf)
+- [09/24](Analisi26/09-24.pdf)
 
   
 ## Category theory (Spring 2026, Universitity of Pisa)
