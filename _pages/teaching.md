@@ -15,6 +15,8 @@ Notes from the course:
 - [09/24](Analisi26/09-24.pdf)
 - [09/25](Analisi26/09-25.pdf)
 - [09/28](Analisi26/09-28.pdf)
+- [09/29](Analisi26/09-29.pdf)
+
   
 ## Category theory (Spring 2026, Universitity of Pisa)
 I co-taught [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11082103::::&ri=062064), offered at the University of Pisa.
