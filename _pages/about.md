@@ -14,5 +14,5 @@ I did my graduate studies at [Scuola Normale Superiore](https://www.sns.it/en) i
 
 I got both my bachelor and my master degree from the [University of Rome "La Sapienza"](https://www.mat.uniroma1.it/en).
 
-You can find my full CV [here](CV25.pdf) (last updated June 2025).
+You can find my full CV [here](CV.pdf) (last updated September 2026).
 
