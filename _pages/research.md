@@ -37,7 +37,7 @@ The kind of techniques that I use include stack-theoretical methods, logarithmic
 - Logarithmic geometry.
 
 ## Preprints
-1.[The unbearable projectivity of being a good moduli space of Gorenstein curves of genus one with non-colliding markings](https://arxiv.org/abs/2610.08742), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) and [Michele Pernice](https://michelepernice.github.io/home.html) (2026)
+1. [The unbearable projectivity of being a good moduli space of Gorenstein curves of genus one with non-colliding markings](https://arxiv.org/abs/2610.08742), joint with [Luca Battistella](https://sites.google.com/view/luca-battistella/home) and [Michele Pernice](https://michelepernice.github.io/home.html) (2026)
 1. [Cohomological invariants of $\mathscr{M}_{3,n}$ via level structures](https://arxiv.org/abs/2509.09661) (2025)
 1. [Stable maps to quotient stacks with a properly stable point](https://arxiv.org/abs/2411.16141), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2024).
 1. [Degenerations of twisted maps to algebraic stacks](https://arxiv.org/abs/2210.03806), joint with [Giovanni Inchiostro](https://sites.math.washington.edu/~ginchios/) (2022).
