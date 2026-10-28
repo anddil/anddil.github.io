@@ -8,15 +8,7 @@ Here you can find some information related to (some of) the courses I taught so 
 I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11128768::::&ri=062064), offered at the University of Pisa.
 
 ## Analisi 1 (Biomedic Engineering, Fall 2026, University of Pisa)
-Notes from the course:
-
-- [09/21](Analisi26/09-21.pdf)
-- [09/22](Analisi26/09-22.pdf)
-- [09/24](Analisi26/09-24.pdf)
-- [09/25](Analisi26/09-25.pdf)
-- [09/28](Analisi26/09-28.pdf)
-- [09/29](Analisi26/09-29.pdf)
-- [10/01](Analisi26/10-01.pdf)
+I am co-teaching [this course](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11130300::::&ri=062064), offered at the University of Pisa.
 
   
 ## Category theory (Spring 2026, Universitity of Pisa)
